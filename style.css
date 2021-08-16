@@ -1,0 +1,86 @@
+*
+{
+    list-style: none;
+    text-decoration: none;
+}
+.header, .navbar
+{
+    width: 100%;    
+    background-color: #001428;
+}
+.navbar-brand img{
+    height:auto;
+    width: 15rem;
+}
+.navbar-nav
+{
+    margin-left: 140px;
+}
+
+.menu, .search
+{
+    padding: 10px ;
+}
+.logo
+{
+    align-self: center;
+}
+.menu
+{
+    align-content: flex-end;
+}
+
+.logo img, .logo-container a
+{
+   height: 50px;
+   width: 100%;
+
+}
+.body
+{
+    background-color: #001428 ;
+}
+.carousel-caption
+{
+    margin-top: 100px;
+    text-align: left;
+}
+.hellobtn
+{
+    display: inline-block;
+    text-decoration: none;
+    padding: 15px;
+    text-align: center;
+    border-radius: 30px;
+}
+.main
+{
+    background-color: #001428;
+}
+.container li
+{
+    color: white;
+    padding: 5px;
+}
+.intro
+{
+    margin-bottom: 400px;
+}
+
+.row
+{
+    display: inline-block;
+    width: 100%;
+    align-items: flex-end;
+    justify-content: flex-end;
+    padding-bottom: 20px;
+}
+.carousel, .section{
+    padding: 10px;
+    background-color: #001428;
+}
+.footer-links
+{
+    background-color: #001428;
+    padding: auto;
+}
